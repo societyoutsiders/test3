@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/test3/' // <-- Diese Zeile hinzufügen
+  base: '/test3/' // <-- Diese Zeile muss so aussehen
 })
